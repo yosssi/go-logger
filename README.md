@@ -1,2 +1,1 @@
-# go-logger
-Go Logger
+# Go Logger
